@@ -1,0 +1,38 @@
+.footer{
+    padding-top: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-top{
+    
+    align-items: center;
+    background-color: rgb(117, 116, 116);
+    color: white;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+}
+ li{
+    
+     list-style: none;
+     padding: 10px;
+ }
+
+ .footer-midle{
+     align-items: center;
+     justify-content: center;
+ }
+
+ .img5{
+     align-items: center;
+    justify-content: center;
+    padding: 40px;
+ }
+
+ .footer-bottom{
+     text-align: center;
+ }
+ 
